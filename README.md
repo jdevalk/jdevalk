@@ -20,12 +20,7 @@ I'm an internet entrepreneur and open source developer from the Netherlands. I f
 
 ## GitHub stats
 
-<a href="https://github.com/jdevalk">
-  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=jdevalk&show_icons=true&theme=default&hide_border=true&count_private=true" />
-</a>
-<a href="https://github.com/jdevalk">
-  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdevalk&layout=compact&theme=default&hide_border=true&langs_count=6" />
-</a>
+![Metrics](./github-metrics.svg)
 
 ## Connect with me
 
