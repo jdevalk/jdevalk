@@ -1,6 +1,6 @@
 # Hi, I'm Joost de Valk 👋🏼
 
-I'm an internet entrepreneur and open source developer from the Netherlands. I founded [Yoast](https://github.com/Yoast) (acquired by Newfold Digital in 2021) and now run [Emilia Capital](https://emilia.capital/), where we build and invest in open source software companies.
+I'm an internet entrepreneur and open source developer from the Netherlands. I'm Group Head of AI & Growth at [Your.Online](https://your.online/), where I lead an AI team building tools to help entrepreneurs get online and grow. I founded [Yoast](https://github.com/Yoast) (acquired by Newfold Digital in 2021) and still invest in digital companies through [Emilia Capital](https://emilia.capital/).
 
 ## What I'm working on
 
